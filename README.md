@@ -35,7 +35,4 @@ Dataset source: [Kaggle.com](https://www.kaggle.com/datasets/vikrishnan/boston-h
             - Training Model -> Base Model (.fit())
             - Error analysis with regression
             - Evaluation Matrix Comparison (Base Model vs After Tuning)
-            - Hyperparameter Tuning
-            - Evaluation Matrix Comparison (Base Model vs After Hyperparameter Tuning)
-            - Export Model
     - Conclusion
